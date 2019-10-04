@@ -15,4 +15,6 @@
 
 İçindeki Kaynaklar değişik yerlerden bulduğum Algoritma ve Programlamaya giriş Kaynaynaklarıdır. 
 
+Her geçen gün Güncellenecektir
+
 iyi çalışmalar
